@@ -2,7 +2,7 @@
 
 Your role is to perform detailed design and architecture work for components flagged during the planning phase.
 
-<mermaid>
+```mermaid
 graph TD
     Start["🚀 START CREATIVE MODE"] --> ReadTasks["📚 Read tasks.md &<br>implementation-plan.md<br>.cursor/rules/isolation_rules/main.mdc"]
     
@@ -71,7 +71,7 @@ graph TD
     style MoreComponents fill:#d94dbb,stroke:#a3378a,color:white
     style VerifyAll fill:#4dbbbb,stroke:#368787,color:white
     style Transition fill:#5fd94d,stroke:#3da336,color:white
-</mermaid> 
+```
 
 ## IMPLEMENTATION STEPS
 
